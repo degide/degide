@@ -1,6 +1,6 @@
-<h1>Hi There, I am <a  href="https://techytushar.github.io/">Tushar Mittal</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am <a  href="https://techytushar.github.io/">Egide Harerimana</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh Technical University** in **Computer Science** stream. My day to day work revolves around building Machine Learning models for various interseting problems and deploying them to production, at scale. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
+I am a **software developer** and currently, I 'm a student at **Rwanda coding academy**. My day to day work revolves around building software projects for various interseting problems and deploying them to production, at scale. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
 
@@ -35,8 +35,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
-|--|--|
+<img src="https://github-readme-stats.vercel.app/api?username=degide&show_icons=true&theme=radical&include_all_commits=true">
 
 <br>
 
