@@ -10,17 +10,26 @@ These are some of the technologies that I use or have worked on in the past:
   <tbody>
     <tr>
       <td>
-        <h4>Programming Languages</h4>
+        <h4>Languages</h4>
         <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />&emsp;
         <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">&emsp;
-        <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+        <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">&emsp;
+        <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"><br/>
+        <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">&emsp;
+        <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">&emsp;
+        <img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">&emsp;
+        <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"><br/>
+        <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
       </td>
       <td>
         <h4>Libraries and Frameworks</h4>
         <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">&emsp;
         <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">&emsp;
         <img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">&emsp;
-        <img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">
+        <img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"><br/>
+        <img title="NodeJS" alt="NodeJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">&emsp;
+        <img title="ReactJS" alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">&emsp;
+        <img title="VueJS" alt="VueJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">
       </td>
       <td>
         <h4>Cloud</h4>
