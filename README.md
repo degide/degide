@@ -58,7 +58,7 @@ These are some of the technologies that I use or have worked on in the past:
 <br>
 
 ## Some of my stats :bar_chart:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degide&theme=white&hide_langs_below=0"/>|<img src="https://github-readme-stats.vercel.app/api?username=degide&count_private=true&show_icons=true&theme=white&include_all_commits=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degide&theme=light"/>|<img src="https://github-readme-stats.vercel.app/api?username=degide&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=light">
 |--|--|
 
 <br>
