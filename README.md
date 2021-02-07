@@ -4,7 +4,7 @@ I am a **software developer** and currently, I 'm a student at **Rwanda coding a
 
 ## Skill Set :muscle:
 
-These are some of the technologies that I use or have worked on in the past:
+These are some of the technologies that I use or have worked on in the past times:
 
 <table>
   <tbody>
