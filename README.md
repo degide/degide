@@ -1,4 +1,4 @@
-<h1>Hi There, I am <a  href="https://egide.netlify.app/">Egide Harerimana</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am <a  href="https://egide.netlify.app/">Egide Harerimana</a></h1>
 
 My day to day work revolves around building software projects for various interseting problems and deploying them to production, at scale. I am always open to collaborate on interesting projects.
 
