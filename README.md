@@ -1,4 +1,4 @@
-# Hi There
+# Hi there
 
 My daily activities revolves around building software projects for various interseting problems and deploying them to production, at scale. I am always open to collaborate on interesting projects.
 
